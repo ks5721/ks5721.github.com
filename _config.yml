@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Data Storyteller"
+title: "데이터 스트롤"
 description: > # this means to ignore newlines until "email:"
    Dreamgonfly's blog
 
